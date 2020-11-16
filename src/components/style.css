@@ -1,0 +1,26 @@
+.profil{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin:10px 50px;
+    align-items: center;
+}
+.stating{
+    border:1px solid rgba(0, 0, 0, 0.37);
+    border-radius: 20px;
+    margin:10px;
+}
+h1{
+    width:400px;
+    text-align: center;
+    color:rgba(128, 128, 128, 0.568);
+}
+.btn{
+    width:100px;
+    height:40px;
+}
+.image{
+ border-radius: 20px;
+ height:200px;
+ margin-left:110px;
+}
